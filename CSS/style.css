@@ -1,5 +1,5 @@
 .bg-image {
-    background-image: url('https://dl.dropboxusercontent.com/s/yjdb5r33sker1uu/BryceInspirationPoint-9.jpg');
+    background-image: url("../Images/BryceInspirationPoint-9.jpg");
     background-position: top center;
     background-size: cover;
     min-height: 600px;
